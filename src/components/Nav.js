@@ -1,19 +1,9 @@
 import React from 'react';
 
-// TODO: Add a comment explaining how we are able to extract the key value pairs from props
 
 function Nav({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
-      <li className="nav-item">
-        <a
-          href="#home"
-          onClick={() => handlePageChange('Home')}
-          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
-        >
-          Home
-        </a>
-      </li>
       <li className="nav-item">
         <a
           href="#about"
@@ -25,11 +15,11 @@ function Nav({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
+          href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
           className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Portfolio
         </a>
       </li>
       <li className="nav-item">
@@ -38,7 +28,7 @@ function Nav({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
-          Contact
+          Resume
         </a>
       </li>
       <li className="nav-item">
