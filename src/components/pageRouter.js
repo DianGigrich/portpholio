@@ -13,7 +13,7 @@ function pageRouter() {
     const [currentPage, setCurrentPage] = useState('Home');
 
     const renderPage = () => {
-      if (currentPage === 'About') {
+      if (currentPage === 'AboutMe') {
         return <AboutMe />;
       }
       if (currentPage === 'Portfolio') {
