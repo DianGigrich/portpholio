@@ -1,8 +1,8 @@
-import AboutMe from "./components/pages/AboutMe"
-import Contact from "./components/pages/Contact"
-import Nav from "./components/Nav"
-import Portfolio from "./components/pages/Portfolio"
-import Resume from "./components/pages/Resume"
+import AboutMe from "./pages/AboutMe"
+import Contact from "./pages/Contact"
+import Nav from "./Nav"
+import Portfolio from "./pages/Portfolio"
+import Resume from "./pages/Resume"
 
 import React, { useState } from 'react';
 
@@ -10,7 +10,7 @@ import React, { useState } from 'react';
 
 
 function pageRouter() {
-    const [currentPage, setCurrentPage] = useState('Home');
+    const [currentPage, setCurrentPage] = useState('AboutMe');
 
     const renderPage = () => {
       if (currentPage === 'AboutMe') {
