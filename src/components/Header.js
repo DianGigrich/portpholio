@@ -4,6 +4,7 @@ function Header() {
     
     return (
         <div>
+            <h1>Dian</h1>
         </div>
     )
 }

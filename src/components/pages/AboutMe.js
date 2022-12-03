@@ -9,10 +9,10 @@ function AboutMe() {
         <i className="" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-       This is the first part of an about section.
+       I am a web developer. I have 9 chickens, 3 cats, 1 dog, and 1 child.  They are all ridiculous in their own special ways.
         </p>
         <p>
-       This is an about Section
+       I have been alive for 36 years.  It's strange to say that I am just now starting a career, but plenty of people do that after their kids are in school full time or they decide they don't like their current career.  So here we go, off on an adventure!
         </p>
       </div>
     </section>
