@@ -1,10 +1,10 @@
 import React, {useSate} from 'react';
 
-function MyResume(){
+function Resume(){
     return (
         <div>
-
+<p>my resume goes here</p>
         </div>
     )
 }
-export default MyResume;
+export default Resume;

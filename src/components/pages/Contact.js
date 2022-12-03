@@ -1,6 +1,6 @@
 import React from 'react';
 
-function MyContact() {
+function Contact() {
     
     return (
         <section class="card">
@@ -15,4 +15,4 @@ function MyContact() {
     )
 }
 
-export default MyContact;
+export default Contact;

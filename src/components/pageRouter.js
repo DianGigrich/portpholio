@@ -1,7 +1,7 @@
 import AboutMe from "./components/pages/AboutMe"
 import Contact from "./components/pages/Contact"
 import Nav from "./components/Nav"
-import Portfolio from "./components/Portfolio"
+import Portfolio from "./components/pages/Portfolio"
 import Resume from "./components/pages/Resume"
 
 import React, { useState } from 'react';

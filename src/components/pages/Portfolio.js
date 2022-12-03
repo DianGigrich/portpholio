@@ -1,6 +1,6 @@
 import React from 'react'
 
-function MyPortfolio() {
+function Portfolio() {
 
     return (
         <section class="card">
@@ -34,4 +34,4 @@ function MyPortfolio() {
 )
 }
 
-export default MyPortfolio;
+export default Portfolio;
