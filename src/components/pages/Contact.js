@@ -47,7 +47,7 @@ function Contact() {
   };
 
   return (
-    <div className="container mt-3">
+    <div className="container mt-3 p-4 border shadow">
       <form className="row g-3 ">
         <div className="col-md-6">
           <label className="form-label">Email: </label>

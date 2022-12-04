@@ -1,18 +1,17 @@
 import React from 'react';
 
+
 function Footer() {
-    
+
     return (
-        <div className="footer fixed-bottom">
-                         <div class="contacts">
-                          <a href="https://github.com/DianGigrich">
-                        <img src="../assets/images/Octocat.jpg" alt="octocat"/>
-                        </a>
-                    <a href="https://www.linkedin.com/in/dian-sherman/">
-                        <img src="../assets/images/LI-In-Bug.png" alt="linkedin logo"/>
-                        </a>
-                </div>
+
+        <div className="row nav nav-tabs nav-justified nav-pills-link-active-color-white bg-white bg-opacity-50 justify-content-center fixed-bottom">
+            <li className="nav-item"><a className="nav-link" href="https://github.com/DianGigrich" target="_blank">Github
+            </a></li>
+            <li className="nav-item "><a className="nav-link" href="https://www.linkedin.com/in/dian-sherman/" target="_blank">LinkedIn
+            </a></li>
         </div>
+
     )
 }
 
