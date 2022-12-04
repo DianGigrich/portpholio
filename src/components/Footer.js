@@ -4,11 +4,13 @@ function Footer() {
     
     return (
         <div className="footer fixed-bottom">
-                        <h2 id="Contact">Contact Me</h2>
-                <div class="contacts">
-                    <a href="mailto:slayer_barrett_@hotamil.com?subject=I want to hire you.">slayer_barrett_@hotmail.com</a>
-                    <a href="https://github.com/DianGigrich">github</a>
-                    <a href="https://www.linkedin.com/in/dian-sherman/">LinkedIn</a>
+                         <div class="contacts">
+                          <a href="https://github.com/DianGigrich">
+                        <img src="../assets/images/Octocat.jpg" alt="octocat"/>
+                        </a>
+                    <a href="https://www.linkedin.com/in/dian-sherman/">
+                        <img src="../assets/images/LI-In-Bug.png" alt="linkedin logo"/>
+                        </a>
                 </div>
         </div>
     )

@@ -4,7 +4,7 @@ import React from 'react';
 
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs justify-content-center">
+    <ul className="row nav nav-tabs nav-justified nav-pills-link-active-color-white bg-white bg-opacity-50 justify-content-center">
       <li className="nav-item">
         <a
           href="#AboutMe"

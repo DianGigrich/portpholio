@@ -2,8 +2,8 @@ import React from 'react';
 
 function AboutMe() {
   return (
-    <section className="container d-flex flex-wrap border rounded p-5">
-      <div className="align-content-center ">
+    <section className="container mt-3">
+      <div className="border rounded p-5 bg-white bg-opacity-50">
         <div className="">
             {/* make sure i change this fontsize thing, its just an example of how to style inline */}
         <i className="" style={{ fontSize: "96px" }}></i>
