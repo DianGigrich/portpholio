@@ -9,7 +9,7 @@ import React, { useState } from 'react';
 
 
 
-function pageRouter() {
+function PageRouter() {
     const [currentPage, setCurrentPage] = useState('AboutMe');
 
     const renderPage = () => {
@@ -35,4 +35,4 @@ function pageRouter() {
     );
   }
   
-  export default pageRouter
+  export default PageRouter
