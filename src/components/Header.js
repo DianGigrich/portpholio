@@ -4,8 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Header() {
     
     return (
-        <div className="jumbotron-fluid">
-            <h1 className="container display-4">Dian</h1>
+        <div className="jumbotron jumbotron-fluid">
+            <div className="container">
+            <h1 className="display-4">Dian</h1>
+            </div>
         </div>
     )
 }

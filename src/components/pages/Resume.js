@@ -1,9 +1,9 @@
-import React, {useSate} from 'react';
+import React, { useSate } from 'react';
 
-function Resume(){
+function Resume() {
     return (
-        <div>
-<p>my resume goes here</p>
+        <div className="container">
+            <p class="card-text">my resume goes here</p>
         </div>
     )
 }
