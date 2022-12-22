@@ -10,11 +10,11 @@ function Portfolio() {
     return (
         <section className="container mt-3">
             <div className="row">
-            <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded" id="gloomhaven">
+            <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded" id="codescape">
                     <a href="https://codescape.herokuapp.com/">
-                        <img className="card-img-top" src={code} alt="Gloomhaven Encounter Screenshot" />
+                        <img className="card-img-top" src={code} alt="Codescape Screenshot" />
                     </a>
-                    <h3 className="card-title">Gloomhaven Helper</h3>
+                    <h3 className="card-title">Codescape</h3>
                 </section>
                 <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded" id="gloomhaven">
                     <a href="https://gloomhaven-helper-deluxe.herokuapp.com/">
