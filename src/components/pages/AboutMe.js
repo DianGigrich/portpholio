@@ -16,7 +16,7 @@ function AboutMe() {
         <div className="p-3 card-body bg-white bg-opacity-75 shadow">
           <h3 className="card-title">About Me!</h3>
           <p className="card-text">
-            I am a web developer. I have 9 chickens, 3 cats, 1 dog, and 1 child.  They are all ridiculous in their own special ways.
+            I am a web developer. I have 8 chickens, 3 cats, 1 dog, and 1 child.  They are all ridiculous in their own special ways.
           </p>
           <p className="card-text">
             I enjoy movie, computer and board games.  I play the piano and teach my daughter, who is mostly interested in learning Christmas music throughout the year. I am a cold body, so I always have on a sweater under my sweatshirt! You would think kitties would keep me warm, but alas, they are more into trouble than snuggles.

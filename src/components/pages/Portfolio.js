@@ -3,12 +3,19 @@ import gloom from "../images/Gloomhaven-Helper.png"
 import hobby from "../images/Hobby-Tracker.png"
 import trivia from "../images/Trivia-Quiz.png"
 import tech from "../images/techblog.png"
+import code from "../images/codescape.png"
 
 function Portfolio() {
 
     return (
         <section className="container mt-3">
             <div className="row">
+            <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded" id="gloomhaven">
+                    <a href="https://codescape.herokuapp.com/">
+                        <img className="card-img-top" src={code} alt="Gloomhaven Encounter Screenshot" />
+                    </a>
+                    <h3 className="card-title">Gloomhaven Helper</h3>
+                </section>
                 <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded" id="gloomhaven">
                     <a href="https://gloomhaven-helper-deluxe.herokuapp.com/">
                         <img className="card-img-top" src={gloom} alt="Gloomhaven Encounter Screenshot" />
