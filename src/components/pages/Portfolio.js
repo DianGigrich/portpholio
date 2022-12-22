@@ -3,7 +3,7 @@ import gloom from "../images/Gloomhaven-Helper.png"
 import hobby from "../images/Hobby-Tracker.png"
 import trivia from "../images/Trivia-Quiz.png"
 import tech from "../images/techblog.png"
-import code from "../images/codescape.png"
+import code from "../images/Codescape.png"
 
 function Portfolio() {
 
