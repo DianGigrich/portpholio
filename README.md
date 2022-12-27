@@ -36,8 +36,6 @@ Joe Rehfuss for teaching us. W3Schools, Mozilla, and StackOverflow. Thanks to th
 ## License
 This application is covered under Creative Commons license. See repo for license.
       
-## Contributing
-You needn't contribute, but if you'd like to, please follow the rules in the Code of Conduct in repo.
   
 ## Questions
 [Link to diangigrich's GitHub](https://github.com/diangigrich)
