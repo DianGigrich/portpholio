@@ -4,10 +4,6 @@ import Header from "./components/Header"
 import PageRouter from "./components/pageRouter"
 
 
-
-
-
-
 function App() {
   return (
     <div>
