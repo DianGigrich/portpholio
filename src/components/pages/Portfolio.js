@@ -11,7 +11,7 @@ function Portfolio() {
         <section className="container mt-3">
             <div className="row">
             <section class="col p-3 m-2 bg-white bg-opacity-50 shadow rounded border border-secondary" id="codescape">
-                    <a href="https://codescape.herokuapp.com/">
+                    <a href="https://codescape.netlify.com/">
                         <img className="card-img-top" src={code} alt="Codescape Screenshot" />
                     </a>
                     <h3 className="card-title">Codescape</h3>
