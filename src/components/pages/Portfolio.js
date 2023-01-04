@@ -43,6 +43,7 @@ function Portfolio() {
                         <img class="card-img-top" src={hobby} alt="Motivator main page" />
                     </a>
                     <h3 className="card-title">Pineapple Motivator</h3>
+                    <p>Motivational task manager</p>
                     <a href="https://github.com/DianGigrich/PineappleMotivator">
                         Github Repository
                     </a>
@@ -53,18 +54,22 @@ function Portfolio() {
                         <img className="card-img-top" src={trivia} alt="Spotted Cat Belly" />
                     </a>
                     <h3 className="card-title">Genshin Impact Trivia Quiz</h3>
+                    <p>Quiz we did as classwork. It's fun.</p>
                     <a href="https://github.com/DianGigrich/TriviaQuiz">
                         Github Repository
                     </a>
                 </section>
+
                 <section className="col p-3 m-2 bg-white bg-opacity-50 shadow rounded border border-secondary" id="Catbelly">
                     <a href="https://diansmvc-tech-blog.herokuapp.com/">
                         <img className="card-img-top" src={tech} alt="Spotted Cat Belly" />
                     </a>
                     <h3 className="card-title">Tech Blog</h3>
+                    <p>Post and Comment on blogs.</p>
                     <a href="https://github.com/DianGigrich/MVC-Tech-Blog">
                         Github Repository
                     </a>
+                    <p>MVC, Handelbars, Express</p>
                 </section>
 
 
