@@ -14,7 +14,7 @@ function AboutMe() {
         </div>
       </article>
 
-      <article className="m-3 row align-items-center">
+      <article className="m-3 row align-items-center ">
         <div className="m-3 p-5 card-body bg-white shadow rounded border border-secondary">
           <h3 className="card-title">About Me!</h3>
           <p className="card-text">

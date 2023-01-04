@@ -4,6 +4,7 @@ import hobby from "../images/Hobby-Tracker.png"
 import trivia from "../images/Trivia-Quiz.png"
 import tech from "../images/techblog.png"
 import code from "../images/Codescape.png"
+import '../../index.css';
 
 function Portfolio() {
 
@@ -16,11 +17,11 @@ function Portfolio() {
                     </a>
                     <h3 className="card-title">Codescape</h3>
                     <p>Play escape room mini-games to practice javascript syntax!</p>
-                    <a href="https://github.com/DianGigrich/Codescape">
+                    <a className="nav-link link-info" href="https://github.com/DianGigrich/Codescape">
                         Github Repository Front-End
                     </a>
                     <br />
-                    <a href="https://github.com/DianGigrich/Codescape-backend">
+                    <a className="nav-link link-success" href="https://github.com/DianGigrich/Codescape-backend">
                         Github Repository Back-End
                     </a>
                     <p>REACT team project. Sequelize, SQL database for backend.</p>
@@ -32,7 +33,7 @@ function Portfolio() {
                     </a>
                     <h3 className="card-title">Gloomhaven Helper</h3>
                     <p>Board game assistant to reduce clutter and minutia</p>
-                    <a href="https://github.com/Mattdack/gloomhaven-helper">
+                    <a className="nav-link link-info" href="https://github.com/Mattdack/gloomhaven-helper">
                         Github Repository
                     </a>
                     <p>Team project, Handlebars, MVC, Sequelize, SQL</p>
@@ -44,7 +45,7 @@ function Portfolio() {
                     </a>
                     <h3 className="card-title">Pineapple Motivator</h3>
                     <p>Motivational task manager</p>
-                    <a href="https://github.com/DianGigrich/PineappleMotivator">
+                    <a className="nav-link link-info" href="https://github.com/DianGigrich/PineappleMotivator">
                         Github Repository
                     </a>
                     <p>team project, Javascript, Materialize</p>
@@ -56,7 +57,7 @@ function Portfolio() {
                     </a>
                     <h3 className="card-title">Genshin Impact Trivia Quiz</h3>
                     <p>Quiz we did as classwork. It's fun.</p>
-                    <a href="https://github.com/DianGigrich/TriviaQuiz">
+                    <a className="nav-link link-info" href="https://github.com/DianGigrich/TriviaQuiz">
                         Github Repository
                     </a>
                     <p>Javascript</p>
@@ -68,7 +69,7 @@ function Portfolio() {
                     </a>
                     <h3 className="card-title">Tech Blog</h3>
                     <p>Post and Comment on blogs.</p>
-                    <a href="https://github.com/DianGigrich/MVC-Tech-Blog">
+                    <a className="nav-link link-info" href="https://github.com/DianGigrich/MVC-Tech-Blog">
                         Github Repository
                     </a>
                     <p>MVC, Handelbars, Express</p>
