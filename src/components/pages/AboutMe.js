@@ -24,6 +24,9 @@ function AboutMe() {
             I play the piano and teach my daughter, who is mostly interested in learning Christmas music throughout the year. I am a cold body, so I always have on a sweater under my sweatshirt! You would think kitties would keep me warm, but alas, they are more into trouble than snuggles. I enjoy movie, computer and board games, and reading. Have you read Brandon Sanderson? He's really quite good.
           </p>
           <p className="card-text">
+            I have signed up to coach soccer for my daughter's soccer team.  Hopefully that turns out well! I don't know the rules, so I'll have to get on youtube and figure out how to be a good coach!
+          </p>
+          <p className="card-text">
             I have been alive for 36 years, and am just now utilizing my potential... so lets go off on a big adventure!
           </p>
 
