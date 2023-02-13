@@ -5,7 +5,21 @@ body {
     background-attachment: fixed;
 };
 
-unstyled {
+.unstyled {
     color: inherit;
     text-decoration: inherit;
+}
+
+.cardborder {
+    border: grey solid 1 px;
+    border-radius: 1%;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 50px grey;
+}
+
+.imagepadding {
+    margin: 20px;
+    padding: 15px;
 }

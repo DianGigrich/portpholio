@@ -11,7 +11,7 @@ function Portfolio() {
     return (
         <section className="container mt-3">
             <div className="row">
-                <section className="col p-3 m-2 bg-white bg-opacity-75 shadow rounded border border-secondary" id="codescape">
+                <section className="col imagepadding bg-white bg-opacity-75 shadow rounded border border-secondary card" id="codescape">
                     <a href="https://codescape.netlify.app/" target="_blank" rel="noopener noreferrer">
                         <img className="card-img-top border border-secondary rounded" src={code} alt="Codescape Screenshot" />
                     </a>
@@ -27,7 +27,7 @@ function Portfolio() {
                     <p>REACT team project. Sequelize, SQL database for backend.</p>
 
                 </section>
-                <section className="col p-3 m-2 bg-white bg-opacity-75 shadow rounded border border-secondary" id="gloomhaven">
+                <section className="col imagepadding bg-white bg-opacity-75 shadow rounded border border-secondary" id="gloomhaven">
                     <a href="https://gloomhaven-helper-deluxe.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                         <img className="card-img-top border border-secondary rounded" src={gloom} alt="Gloomhaven Encounter Screenshot" />
                     </a>
@@ -39,7 +39,7 @@ function Portfolio() {
                     <p>Team project, Handlebars, MVC, Sequelize, SQL</p>
                 </section>
 
-                <section className="col p-3 m-2 bg-white bg-opacity-75 shadow rounded border border-secondary" id="pineapple">
+                <section className="col imagepadding bg-white bg-opacity-75 shadow rounded border border-secondary" id="pineapple">
                     <a href="https://diangigrich.github.io/PineappleMotivator/" target="_blank" rel="noopener noreferrer">
                         <img class="card-img-top border border-secondary rounded" src={hobby} alt="Motivator main page" />
                     </a>
@@ -51,7 +51,7 @@ function Portfolio() {
                     <p>team project, Javascript, Materialize</p>
                 </section>
 
-                <section className="col p-3 m-2 bg-white bg-opacity-75 shadow rounded border border-secondary" id="Catbelly">
+                <section className="col imagepadding bg-white bg-opacity-75 shadow rounded border border-secondary" id="Catbelly">
                     <a href="https://DianGigrich.github.io/TriviaQuiz/" target="_blank" rel="noopener noreferrer">
                         <img className="card-img-top border border-secondary rounded" src={trivia} alt="Spotted Cat Belly" />
                     </a>
@@ -63,7 +63,7 @@ function Portfolio() {
                     <p>Javascript</p>
                 </section>
 
-                <section className="col p-3 m-2 bg-white bg-opacity-75 shadow rounded border border-secondary" id="Catbelly">
+                <section className="col imagepadding bg-white bg-opacity-75 shadow rounded border border-secondary" id="Catbelly">
                     <a href="https://diansmvc-tech-blog.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                         <img className="card-img-top border border-secondary rounded" src={tech} alt="Spotted Cat Belly" />
                     </a>
