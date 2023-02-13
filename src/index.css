@@ -23,3 +23,21 @@ body {
     margin: 20px;
     padding: 15px;
 }
+
+@media screen and (max-width: 990px) {
+    header{
+        flex-direction:column;
+    }
+    .card {
+        flex-direction: column;
+    }
+    .card h2 {
+        width:100%;
+    }
+    .card div {
+        width: 100%;
+        border-top: black solid 5px;
+        border-left: none;
+    }
+
+}
