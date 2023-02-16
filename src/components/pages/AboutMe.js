@@ -6,31 +6,53 @@ import '../../index.css';
 function AboutMe() {
   return (
     <section className="container d-flex row-center mt-3">
-      <article className="row-md-auto" >
-        <div className="col-md-auto">
+      <article className="col-md-auto aboutpics" >
+        <div className="row-md-auto">
           <img className="imagepadding img-thumbnail bg-white bg-opacity-25 border shadow" src={dian} alt="Dian Gigrich " />
         </div>
-        <div className="col">
+        <div className="row">
           <img className="imagepadding img-thumbnail bg-white bg-opacity-25 shadow" src={cat} alt="little kitty" />
         </div>
       </article>
-
-      <article className="m-3 row-md-auto align-items-center ">
+      <article className="m-3 card row-md-auto align-items-center">
         <div className="card-body cardborder">
           <h3 className="card-title">About Me!</h3>
           <p className="card-text">
-            I am a web developer and a computer gamer. I have many pets and one child. They are all ridiculous in their own special ways. I am a DIY renovator and a project seamstress.  I find that sewing is the most like coding- it's meticulous, methodical, and sometimes it doesn't turn out right so you have to rip out the stitches and redo it a few times until it works as intended.
+            I am a full stack web developer and a computer gamer. I am a DIY renovator and a project seamstress.  I find that sewing is the most like coding- it's meticulous, methodical, and sometimes frustrating having to redo something that just doesn't work right.
           </p>
           <p className="card-text">
-            I play the piano and teach my daughter, who is mostly interested in learning Christmas music throughout the year. I am a cold body, so I always have on a sweater under my sweatshirt! You would think kitties would keep me warm, but alas, they are more into trouble than snuggles. I enjoy movie, computer and board games, and reading. Have you read Brandon Sanderson? He's really quite good.
+            Recently I graduated from Full Stack Web Development bootcamp from the University of Washington.  It was very intense. I didn't realize I would enjoy coding, but I do!  
           </p>
           <p className="card-text">
-            I am a volunteer soccer coach for my daughter's 3rd grade team, and I volunteer for Popcorn Fridays during recess at her school.
+            I volunteer with Bethel Recreation as an assistant soccer coach and volunteer at my daughter's school handing out popcorn at Friday recess for the PTA.
           </p>
           <p className="card-text">
             Contact me directly! dianesherman@gmail.com
           </p>
 
+        </div>
+      </article>
+      <article className="m-3 card row-md-auto align-items-center">
+        <div className="card-body cardborder">
+          <h3 className="card-title"> Technical Skills</h3>
+          <ul>
+            <li>
+              <b>Programming Languages:</b>
+              "HTML, CSS, Javascript"
+            </li>
+            <li>
+              <b>Database Management:</b>
+              "MySQL, Sequelize, MongoDB, Mongoose"
+            </li>
+            <li>
+              <b>Frameworks/Libraries:</b>
+              "jQuery, React.js, Express.js, Bootstrap, Materialize, Material UI, Interact.js"
+            </li>
+            <li>
+              <b>Other:</b>
+              "Node.js, Handlebars, Git, Heroku, Netlify"
+            </li>
+          </ul>
         </div>
       </article>
     </section >
