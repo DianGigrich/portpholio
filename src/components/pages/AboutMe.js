@@ -1,5 +1,5 @@
 import React from 'react';
-import dian from '../images/me.jpg';
+import dian from '../images/Dian.jpg';
 import cat from "../images/little cat.jpg";
 import '../../index.css';
 
