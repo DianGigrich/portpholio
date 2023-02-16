@@ -30,6 +30,9 @@ function AboutMe() {
           <p className="card-text">
             I have been alive for 36 years, and am looking forward to maximizing my potential... so lets go off on a big adventure!
           </p>
+          <p>
+            Contact me directly! dianesherman@gmail.com
+          </p>
 
         </div>
       </article>
