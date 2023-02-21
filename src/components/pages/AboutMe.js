@@ -24,7 +24,7 @@ function AboutMe() {
             Recently I graduated from Full Stack Web Development bootcamp from the University of Washington.  It was very intense. I didn't realize I would enjoy coding, but I do!  
           </p>
           <p className="card-text">
-            I volunteer with Bethel Recreation as an assistant soccer coach and volunteer at my daughter's school handing out popcorn at Friday recess for the PTA.
+            I volunteer with Bethel Recreation as an assistant soccer coach and volunteer at my daughter's school handing out popcorn at Friday recess for the PTA. I am also turning into a crazy cat lady, but three isn't too many, right?
           </p>
           <p className="card-text">
             Contact me directly! dianesherman@gmail.com
