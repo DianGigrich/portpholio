@@ -7,9 +7,9 @@ function Resume() {
 
     return (
         <>
-            <section>
+            <section className="card-body cardborder">
                 <h2>Hello</h2>
-                <p>dianesherman@gmail.com</p>
+                <p>DianESherman@gmail.com</p>
                 <h2>Skills</h2>
                 <ul><li>FRONT-END: React, Javascript, HTML5, jQuery, Material-UI, Bootstrap, CSS</li>
                     <li>BACK-END: MySQL, Node.js, MongoDB, Mongoose ODM, Express.js</li>
@@ -19,20 +19,23 @@ function Resume() {
 
                 <h5><strong>Codescape</strong> - <i>Git Admin</i></h5>
                 <ul>
-                    <li>https://codescape.netlify.app/  https://github.com/DianGigrich/Codescape </li>
+                    <li><a href="https://codescape.netlify.app/">Site</a> &emsp;
+                        <a href="https://github.com/DianGigrich/Codescape">Repo</a> </li>
                     <li>A virtual escape room for Javascript beginners to practice syntax.  Utilizes drag and drop</li>
                     <li>React, Javascript, Sequelize, SQL, Express, Interact.js</li>
                 </ul>
                 <h5><strong>Gloomhave Helper</strong> - <i>Project Manager</i></h5>
                 <ul>
-                    <li>https://gloomhaven-helper-deluxe.herokuapp.com/     https://github.com/Mattdack/gloomhaven-helper  </li>
+                    <li><a href="https://gloomhaven-helper-deluxe.herokuapp.com/">Site</a> &emsp;
+                        <a href="https://github.com/Mattdack/gloomhaven-helper">Repo</a>  </li>
                     <li>An online tool to help play Gloomhaven boardgame-  a game full of tiny health point, turn, and effect trackers. Eliminates some of those annoying parts. </li>
                     <li>Javascript, Sequelize, SQL, Handlebars, Tailwind</li>
                     <li><b>Received an award for Best Functionality.</b></li>
                 </ul>
                 <h5><strong>Pineapple Motivator</strong> - <i>Project Manager</i></h5>
                 <ul>
-                    <li>https://diangigrich.github.io/PineappleMotivator /   https://github.com/DianGigrich/PineappleMotivator  </li>
+                    <li><a href="https://diangigrich.github.io/PineappleMotivator">Site</a> &emsp;
+                        <a href="https://github.com/DianGigrich/PineappleMotivator">Repo</a>  </li>
                     <li>A hobby tracker that provides motivation. Get rewarded with a YouTube video related to your motivator.  It can switch to Pirate mode if you're feeling weird.</li>
                     <li>Javascript, HTML, CSS, Materialize</li>
                 </ul>
@@ -45,6 +48,8 @@ function Resume() {
                     <li>stocked groceries  at two of the most profitable and highly rated Safeway/Albertsons  in the state. Was offered a management position by both store managers.</li>
                 </ul>
                 <h5><strong>Mosaic Sales Solutions</strong> - <i>Brand Ambassador for Samsung, Lifeproof, Otterbox</i></h5>
+                <h5><strong>Puyallup School District</strong> - <i>Classified Substitute, Secretary</i></h5>
+
                 <h5><strong>Regal Lakewood Stadium 15</strong> - <i>Associate Manager</i></h5>
                 <ul>
                     <li>managing 3-20 employees with a team of managers</li>
