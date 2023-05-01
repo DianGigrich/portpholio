@@ -2,7 +2,7 @@ import React from 'react'
 import gloom from "../images/Gloomhaven-Helper.png"
 import hobby from "../images/Hobby-Tracker.png"
 import trivia from "../images/Trivia-Quiz.png"
-import tech from "../images/techblog.png"
+import Soccer from "../images/Soccer.png"
 import code from "../images/Codescape.png"
 import '../../index.css';
 
@@ -51,9 +51,9 @@ function Portfolio() {
                     <p>team project, Javascript, Materialize</p>
                 </section>
 
-                <section className="col imagepadding cardborder" id="Catbelly">
+                <section className="col imagepadding cardborder" id="triviaquiz">
                     <a href="https://DianGigrich.github.io/TriviaQuiz/" target="_blank" rel="noopener noreferrer">
-                        <img className="card-img-top border border-secondary rounded" src={trivia} alt="Spotted Cat Belly" />
+                        <img className="card-img-top border border-secondary rounded" src={trivia} alt="trivia pic" />
                     </a>
                     <h3 className="card-title">Genshin Impact Trivia Quiz</h3>
                     <p>Quiz we did as classwork. It's fun.</p>
@@ -63,16 +63,16 @@ function Portfolio() {
                     <p>Javascript</p>
                 </section>
 
-                <section className="col imagepadding cardborder" id="Catbelly">
-                    <a href="https://diansmvc-tech-blog.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                        <img className="card-img-top border border-secondary rounded" src={tech} alt="Spotted Cat Belly" />
+                <section className="col imagepadding cardborder" id="soccer">
+                    <a href="https://http://elkplain-soccer.netlify.app/" target="_blank" rel="noopener noreferrer">
+                        <img className="card-img-top border border-secondary rounded" src={Soccer} alt="soccer site pic" />
                     </a>
-                    <h3 className="card-title">Tech Blog</h3>
-                    <p>Post and Comment on blogs.</p>
-                    <a className="nav-link link-info" href="https://github.com/DianGigrich/MVC-Tech-Blog">
+                    <h3 className="card-title">Soccer</h3>
+                    <p>Keeping my kid's soccer team informed with all information in one easy place.</p>
+                    <a className="nav-link link-info" href="https://github.com/DianGigrich/SoccerHub">
                         Github Repository
                     </a>
-                    <p>MVC, Handelbars, Express</p>
+                    <p>React, MUI, HTML, CSS</p>
                 </section>
 
 
