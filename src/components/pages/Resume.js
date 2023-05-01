@@ -59,7 +59,7 @@ function Resume() {
                 </ul>
                 <h2 className="text-danger">Volunteering</h2>
                 <h5><strong>Elk Plain School of Choice</strong> - <i>weekly PTA popcorn volunteer</i> - current</h5>
-                <h5><strong>Bethel Recreation</strong> - <i>Assistant Soccer Coach</i> - current</h5>
+                <h5><strong>Bethel Recreation</strong> - <i>Assistant Soccer Coach</i> - season ended</h5>
                 <p><a href="https://elkplain-soccer.netlify.app">Our Team Soccer Site</a></p>
 
 
