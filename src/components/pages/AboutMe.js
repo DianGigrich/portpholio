@@ -38,7 +38,7 @@ function AboutMe() {
           <ul>
             <li>
               <b>Programming Languages:</b>
-              "HTML, CSS, Javascript"
+              "HTML5, CSS3, Javascript"
             </li>
             <li>
               <b>Database Management:</b>
