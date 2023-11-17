@@ -64,7 +64,7 @@ function Portfolio() {
                 </section>
 
                 <section className="col imagepadding cardborder" id="soccer">
-                    <a href="https://http://elkplain-soccer.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <a href="http://elkplain-soccer.netlify.app/" target="_blank" rel="noopener noreferrer">
                         <img className="card-img-top border border-secondary rounded" src={Soccer} alt="soccer site pic" />
                     </a>
                     <h3 className="card-title">Soccer</h3>
