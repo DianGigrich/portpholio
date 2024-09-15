@@ -43,6 +43,9 @@ function Resume() {
                 <h5><strong>University of Washington, Seattle</strong> - <i>Full Stack Web Developer Certificate</i> - SEP 2022-DEC 2022 </h5>
                 <h5><strong>University of Washington, Tacoma</strong> - <i>Bachelor's in Interdisciplinary A and S</i> - SEP 2006-DEC 2008 </h5>
                 <h2 className="text-warning">Employment</h2>
+                <h5><strong>Costco Wholesale - Merchandiser</strong></h5>
+                    <li>stocking merchandise in a clean straight manner; following the Five Rights, as they say</li>
+                    <li>verifying correct pricing and placement of tags</li>
                 <h5><strong>Jyve</strong> - <i>Merchandiser and Trainer</i></h5>
                 <ul>
                     <li>stocked groceries  at two of the most profitable and highly rated Safeway/Albertsons  in the state. Was offered a management position by both store managers.</li>
